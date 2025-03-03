@@ -1,0 +1,10 @@
+D:\UDB\Ciclo-02-2025\Desarrollo de Aplicaciones con Software Propietario\Unidad-1\HotelReservacionesGUI\HotelReservacionesGUI\obj\Debug\HotelReservacionesGUI.csproj.AssemblyReference.cache
+D:\UDB\Ciclo-02-2025\Desarrollo de Aplicaciones con Software Propietario\Unidad-1\HotelReservacionesGUI\HotelReservacionesGUI\obj\Debug\HotelReservacionesGUI.Form1.resources
+D:\UDB\Ciclo-02-2025\Desarrollo de Aplicaciones con Software Propietario\Unidad-1\HotelReservacionesGUI\HotelReservacionesGUI\obj\Debug\HotelReservacionesGUI.Properties.Resources.resources
+D:\UDB\Ciclo-02-2025\Desarrollo de Aplicaciones con Software Propietario\Unidad-1\HotelReservacionesGUI\HotelReservacionesGUI\obj\Debug\HotelReservacionesGUI.csproj.GenerateResource.cache
+D:\UDB\Ciclo-02-2025\Desarrollo de Aplicaciones con Software Propietario\Unidad-1\HotelReservacionesGUI\HotelReservacionesGUI\obj\Debug\HotelReservacionesGUI.csproj.CoreCompileInputs.cache
+D:\UDB\Ciclo-02-2025\Desarrollo de Aplicaciones con Software Propietario\Unidad-1\HotelReservacionesGUI\HotelReservacionesGUI\bin\Debug\HotelReservacionesGUI.exe.config
+D:\UDB\Ciclo-02-2025\Desarrollo de Aplicaciones con Software Propietario\Unidad-1\HotelReservacionesGUI\HotelReservacionesGUI\bin\Debug\HotelReservacionesGUI.exe
+D:\UDB\Ciclo-02-2025\Desarrollo de Aplicaciones con Software Propietario\Unidad-1\HotelReservacionesGUI\HotelReservacionesGUI\bin\Debug\HotelReservacionesGUI.pdb
+D:\UDB\Ciclo-02-2025\Desarrollo de Aplicaciones con Software Propietario\Unidad-1\HotelReservacionesGUI\HotelReservacionesGUI\obj\Debug\HotelReservacionesGUI.exe
+D:\UDB\Ciclo-02-2025\Desarrollo de Aplicaciones con Software Propietario\Unidad-1\HotelReservacionesGUI\HotelReservacionesGUI\obj\Debug\HotelReservacionesGUI.pdb
